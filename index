@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+DOCTYPE html>
 <html>
 <head>
     <meta charset="utf 8">
@@ -13,5 +13,15 @@
     <h4><a href ="baitapf1\hinh5.html">hinh5</a></h4>
     <h4><a href ="baitapf1\hinh6.html">hinh6</a></h4>
     <h4><a href ="baitapf1\hinh7.html">hinh7</a></h4>
+    <h3>baitapf2</h3>
+    <h4><a href ="baitapf2\hinh1.html">hinh1</a></h4>
+    <h4><a href ="baitapf2\hinh2.html">hinh2</a></h4>
+    <h4><a href ="baitapf2\hinh3.html">hinh3</a></h4>
+    <h4><a href ="baitapf2\hinh4.html">hinh4</a></h4>
+    <h3>baitapf3</h3>
+    <h4><a href ="baitapf3\hinh1.html">hinh1</a></h4>
+    <h4><a href ="baitapf3\hinh2.html">hinh2</a></h4>
+    <h4><a href ="baitapf3\hinh3.html">hinh3</a></h4>
+    <h4><a href ="baitapf3\hinh4.html">hinh4</a></h4>
 </body>
 </html>
